@@ -25,6 +25,11 @@
             <h2>A propos de moi ❓</h2>
             <p>
             <ul>
+                Diplômes obtenus :
+            </ul>
+            <ul>
+                <li>2021, BTS SIO (option B - SLAM) </br>
+                    🏫 Lycée Simone-Weil (📍 Saint-Priest-En-Jarez - 42270) : Admis </li>
                 <li>2019, Bac STI2D </br>
                     🏫 Lycée Jacob Holtzer (📍 Firminy - 42700) : Admis mention bien</li>
                 <li>2016, Brevet des Collèges </br>🏫 Collège Massenet-Fourneyron (📍 Le Chambon-Feugerolles - 42500) : Admis mention bien</li>
@@ -38,7 +43,10 @@
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                 <h3>Développeur Odoo &amp; Développeur procédural</h3>
                 <p class="font-italic">
-                    J'ai des bases solides en C#, Phyton&Odoo, XML et HTML/CSS. J'ai déjà pratiqué le Php, le framework Laravel, le WinDev22, le Java et le JavaScript. J'aime avant tout la programation en procédurale et je m'intéresse de plus en plus à Odoo14.
+                    J'ai des bases solides en C#, Phyton&Odoo, XML et HTML/CSS.
+                    J'ai déjà pratiqué le Php, le framework Laravel, le WinDev22, le Java et le JavaScript.
+                    J'aime avant tout la programation en procédurale et je m'intéresse de plus en plus à Odoo14.
+                    Enfin, j'ai exercé un poste de Technicien Helpdesk au sein de HELPLINE, prouvant que j'ai une certaine polyvalence dans le milieu informatique.
                 </p>
                 <div class="row">
                     <div class="col-lg-6">
@@ -49,7 +57,6 @@
                     <div class="col-lg-6">
                         <ul>
                             <li><i class="icofont-rounded-right"></i> <strong>🕯️ Âge :</strong> 19</li>
-                            <li><i class="icofont-rounded-right"></i> <strong>Niveau :</strong> Débutant confirmé</li>
                         </ul>
                     </div>
                 </div>
@@ -72,8 +79,9 @@
 
         <div class="section-title">
             <h2>Veille technologique 💻</h2>
-            <p>J'ai réalisé ma veille technologique sur le CMS Wordpress avec l'extension Woo commerce. J'ai choisi ce thème car je voulais découvrir le monde du e-commerce auquel je ne m'étais jamais intéressé auparavant. J'ai ainsi réalisé un site
-                de e-commerce axé sur l'informatique.
+            <p>J'ai réalisé ma veille technologique sur le CMS Wordpress avec l'extension <a href="https://fr.wordpress.org/plugins/woocommerce/" target="_blank"> WooCommerce </a>.
+                J'ai choisi ce thème car je voulais découvrir le monde du e-commerce auquel je ne m'étais jamais intéressé auparavant.
+                J'ai ainsi réalisé un site de e-commerce axé sur l'informatique.
             </p>
             </br>
             <img class="img-avant" src="demo_vt.png" alt="" /> <a href="pdf/Vfinal WordPress - WooCommerce.pdf" target="_blank"> 📽️ Voir le pdf de résumé de ma veille technologique.</a>
@@ -110,10 +118,18 @@
             <ul>
                 <li>
                     <p>
-                        Tout d'abord, vous pouvez consulter mon <a href="pdf/DUMILLIER%20Guillaume%20BTS%20SIO%20tableau%20CCF%20E6.xlsx%20-%20tableau%20de%20synth%C3%A8se%20SLAM.pdf" target="_blank"> tableau de compétences <i class="icofont-file-pdf"></i></a>.
+                        CDD Technicien Helpdesk / <a href="https://www.helpline.fr/" target="_blank">HELPLINE</a> :
+                        </br>
+                        📍 Lyon (69007)
+                        </br>
+                        📅 Commencé en Août 2021 (3 mois)
+                        </br>
+                        📄 Technicien Helpdesk évoluant en tant que prestataire pour ENEDIS.
                         </br>
                     </p>
                 </li>
+            </ul>
+            <ul>
                 <li>
                     <p>
                         Stagiaire / <a href="https://www.adquat.com/contact/" target="_blank"> ADQUAT Solutions :</a>
@@ -172,7 +188,7 @@
             <ul>
                 <div>
                     <li>
-                        Stagiaire / Meubles Peyron (DIGITAL) :
+                        Stagiaire / Meubles Peyron (<a href="https://magasins.group-digital.fr/auvergne-rhone-alpes/loire/le-chambon-feugerolles/30/group-digital-le-chambon-feugerolles" target="_blank">DIGITAL</a>) :
                         </br>
                         📍 Le Chambon-Feugerolles (42500)
                         </br>
